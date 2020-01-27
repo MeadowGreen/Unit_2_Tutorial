@@ -5,8 +5,8 @@
    Tutorial 10
    Tutorial Case
 
-   Author: 
-   Date:  
+   Author: Meadow Green
+   Date:  1-27-20
 
    Filename:   lht_calendar.js  
 
